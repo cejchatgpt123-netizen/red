@@ -1,4 +1,4 @@
-.streamlit/secrets.toml
+secrets.toml.example
 .env
 *.db
 *.sqlite
