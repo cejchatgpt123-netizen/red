@@ -1,0 +1,7 @@
+{
+  "assessment_title": "Grade 7 Science Assessment",
+  "topic": "Separation Techniques",
+  "passing_grade_percent": 60,
+  "classes": ["7A", "7B", "7C", "7D"],
+  "allow_custom_class": false
+}

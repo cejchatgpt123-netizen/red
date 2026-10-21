@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.pytest_cache/
+.venv/
+*.xlsx
